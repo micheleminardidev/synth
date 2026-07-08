@@ -1,0 +1,11 @@
+{
+  "name": "terminal-synt",
+  "version": "1.0.0",
+  "description": "Mini sequencer synth da terminale in Node.js",
+  "main": "synt.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node synt.js"
+  },
+  "license": "MIT"
+}
