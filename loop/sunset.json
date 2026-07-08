@@ -1,8 +1,15 @@
 {
-  "name": "sunset",
-  "prog": "F C Dm Bb",
-  "bpm": 100,
+  "name": "milky_chance_vibe",
+  "prog": "Bm D A E",
+  "bpm": 114,
   "beats": 4,
   "wave": "tri",
-  "loop": false
+  "loop": false,
+  "drums": {
+    "stepsPerBeat": 4,
+    "kick": "x.....x.x.......",
+    "snare": "....x.......x...",
+    "hat": ".x.x.x.x.x.x.x.x",
+    "clap": "................"
+  }
 }

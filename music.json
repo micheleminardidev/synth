@@ -1,20 +1,43 @@
 {
-  "sets": [
-    {
-      "name": "chill1",
-      "prog": "Am F C G",
-      "bpm": 110,
-      "beats": 4,
-      "wave": "saw",
-      "loop": false
-    },
-    {
-      "name": "houseA",
-      "prog": "Dm/2 G/2 Cmaj7/4",
-      "bpm": 124,
-      "beats": 2,
-      "wave": "square",
-      "loop": true
-    }
-  ]
+    "sets": [
+        {
+            "name": "chill1",
+            "prog": "Am F C G",
+            "bpm": 110,
+            "beats": 4,
+            "wave": "saw",
+            "loop": false
+        },
+        {
+            "name": "houseA",
+            "prog": "Dm/2 G/2 Cmaj7/4",
+            "bpm": 124,
+            "beats": 2,
+            "wave": "square",
+            "loop": true
+        },
+        {
+            "name": "drive",
+            "prog": "Em C G D",
+            "bpm": 128,
+            "beats": 2,
+            "wave": "saw",
+            "loop": true
+        },
+        {
+            "name": "stolen_dance",
+            "prog": "G#m F# E B D#",
+            "bpm": 114,
+            "beats": 4,
+            "wave": "tri",
+            "loop": false,
+            "drums": {
+                "stepsPerBeat": 4,
+                "kick": "x.....x.x.......",
+                "snare": "....x.......x...",
+                "hat": ".x.x.x.x.x.x.x.x",
+                "clap": "................"
+            }
+        }
+    ]
 }
